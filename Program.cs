@@ -1,3 +1,5 @@
-﻿double inches = double.Parse(Console.ReadLine());
-double centimeters = inches * 2.54;
-Console.WriteLine(centimeters);
+﻿string season = Console.ReadLine();
+string accommodation = Console.ReadLine();
+int days =int.Parse(Console.ReadLine());
+
+
